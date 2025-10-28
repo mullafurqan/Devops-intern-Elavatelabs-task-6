@@ -4,7 +4,6 @@ This project demonstrates hosting a static HTML website for free using **GitHub 
 
 ![Website Preview](https://github.com/mullafurqan/Devops-intern-Elavatelabs-task-6/blob/main/github%20pages.png)
 
-> You can replace the above link with your own screenshot named **screenshot.png** placed in the repository root folder.
 
 ---
 
